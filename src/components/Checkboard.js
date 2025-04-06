@@ -1,0 +1,3 @@
+function Checkboard({ size = 8, color = '#fff' }) {
+    // ...existing code...
+}
